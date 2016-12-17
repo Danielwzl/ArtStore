@@ -1,0 +1,43 @@
+.ui.segment.grey100 {
+    background-color: #F5F5F5;
+    margin: 0 0 10px 0;
+    box-shadow: none;
+    border: none;
+}
+
+.hero-container {
+    min-height: 400px;
+    background-image: url(../images/hero1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1700px 900px;
+    background-position: center top;
+    display: flex;
+    align-items: center;
+}
+
+.banner1-container {
+    min-height: 150px;
+    background-image: url(../images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    background-position: center top;
+    display: flex;
+    align-items: center;
+}
+
+.ui.divider {
+    width: 99%;
+}
+
+.linkInCard {
+    text-align: center;
+}
+
+#conShopping {
+    width: 100%;
+}
+
+.ui.cards {
+    padding-left: 10%;
+    padding-right: 10%;
+}
